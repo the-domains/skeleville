@@ -1,0 +1,18 @@
+typography_spectrum: 0.8467132311780006
+color:
+  brandStrength: 0.3031561311800033
+  lightness: 0.9618552662432194
+  saturation: 0.29348400328308344
+  rhythmicContrast: 0.5700215892866254
+  brandColors:
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+github: true
+layout_spectrum: 0.42948925122618675
+name: skeleville
+title: Skeleville
+content: []
+description: ''
