@@ -13,6 +13,10 @@ color:
 github: true
 layout_spectrum: 0.42948925122618675
 name: skeleville
+navigation:
+  - name: Skele's Story
+    id: cb825f8a-376f-4f6d-93b8-a34e3e7312b2
+    type: content
 title: Skeleville
 content: []
 description: ''
