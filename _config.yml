@@ -20,3 +20,7 @@ navigation:
 title: Random Ruminations
 content: []
 description: Philosopher. Technologist. Student.
+purpose:
+  - type: contact
+    url: 'mailto:skeledrew@gmail.com'
+    label: Email me
